@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This web app was created to upscale the knowledge of react, please use the below video tutorail for more information.
+This web app was created to upscale the knowledge of react, please use the below video tutorial for more information.
 https://www.youtube.com/watch?v=SqcY0GlETPk
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
